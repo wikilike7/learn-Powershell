@@ -39,7 +39,8 @@
     set-item -path c:\test.txt -value testing
     //出错了，截图见下方
 ```
-![](.\img\provider.jpg)
+
+![](./img/provider.jpg)
 
 4. `get-childitem`的`-filter`,`-include`,`-exclude`参数之间有什么不同？
     1. `include`是指匹配某个模式，可以使用通配符或者具体的文件
